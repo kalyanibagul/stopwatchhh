@@ -1,0 +1,38 @@
+body{
+    background-color:darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+#container{
+    color:white;
+}
+
+.digit{
+    font-size: 150px ;
+    font-weight: bold;
+}
+
+.txt{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#btn-container{
+    text-align: center;
+    margin-top: 40px;
+}
+ .btn{
+    padding: 7px 25px;
+    border:0px;
+    margin:0px 10px;
+    cursor:pointer;
+    font-size: 15px;
+    color:black;
+    background-color: crimson;
+ }
+
+
